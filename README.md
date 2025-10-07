@@ -48,7 +48,7 @@ Here are some of the key projects I've worked on — combining AI, Python, and f
 ## 📬 Connect with Me
 - 📧 Email: murkchanna26@gmail.com  
 - 🌐 GitHub: [github.com/murk-channa9702000](https://github.com/murk-channa9702000)  
-- 📺 YouTube: *Coming Soon*  
+- 📺 YouTube: @PyNerd-l2w  
 - 🌐 Portfolio Site: *Under Construction*
 
 ---
