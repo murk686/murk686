@@ -43,6 +43,7 @@ Certified by **Google, IBM, and FreeCodeCamp**, I’m focused on building **AI-p
 |------------|----------------|
 🧠 **EEG Classifier with Deep Learning** | Real-time EEG brainwave classifier built with deep learning & ensemble modeling. Converts raw EEG signals into actionable predictions with Streamlit-based visualization. Includes preprocessing, noise filtering, and privacy-first architecture. |
 | ⚙️ **AIDocsmith** | *“Forging intelligent documentation with the power of AI.”* Automatically generates documentation from codebases using LLMs, AST parsing & Streamlit. |
+| ⚙️ **Docmentor** | *“DocMentor is your offline GenAI-powered assistant for document Q&A. Built for educators, researchers, and professionals who need fast, citation-backed answers without internet dependency. |
 | 🧠 **AI Article Generator** | Real-time content generation app using AI models for fast, creative writing. |
 | 🗺️ **Business Web Scraper (Google Maps API)** | Automated Python + Streamlit tool to extract and analyze business data from Google Maps. |
 | 🖐️ **Roman Sindhi Sign Language Recognition System** | Tkinter + OpenCV app that recognizes Roman Sindhi signs for inclusive communication. |
