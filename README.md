@@ -22,7 +22,7 @@ Certified by **Google, IBM, and FreeCodeCamp**, I’m focused on building **AI-p
 ### 🧠 My Technical & Creative Toolkit
 
 - 🐍 **Languages:** Python, JavaScript (ES6), HTML/CSS, Bash  
-- ⚙️ **Frameworks & Tools:** Streamlit, Flask, FastAPI, Django, Pandas, NumPy, VS Code, Git, Kivy, Tkinter  
+- ⚙️ **Frameworks & Tools:** Streamlit, Flask, FastAPI, Django, Pandas, NumPy, VS Code, Git, Kivy, Tkinter, Gradio  
 - 🧮 **Data & AI:** LangChain, Ollama, Excel for Data Analysis (IBM), Signal Processing, Time-Series Analysis  
 - 🎨 **Content & Design:** Responsive Web Design (FreeCodeCamp), Synthesia, GitHub Pages  
 
