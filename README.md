@@ -51,6 +51,7 @@ Certified by **Google, IBM, and FreeCodeCamp**, I’m focused on building **AI-p
 | 🖐️ **Roman Sindhi Sign Language Recognition System** | Tkinter + OpenCV app that recognizes Roman Sindhi signs for inclusive communication. |
 | 💬 **Interactive AI Portfolio** | A Streamlit-based personal portfolio featuring an integrated chatbot for smart Q&A. |
 | 🧠**AI YouTube Insight Studio** | An AI-powered educational tool that converts YouTube lectures into structured learning resources including summaries, quizzes, analytics, and downloadable reports.Built using Python, Streamlit, Ollama (Local LLM), and ReportLab. |
+| 🎬 ** AI Reel Generator** | This project creates short vertical reels with **voiceover narration, synced captions, and blog images**.   |
 ---
 
 ### 🧰 Tech Stack
