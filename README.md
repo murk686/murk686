@@ -50,7 +50,7 @@ Certified by **Google, IBM, and FreeCodeCamp**, I’m focused on building **AI-p
 | 🗺️ **Business Web Scraper (Google Maps API)** | Automated Python + Streamlit tool to extract and analyze business data from Google Maps. |
 | 🖐️ **Roman Sindhi Sign Language Recognition System** | Tkinter + OpenCV app that recognizes Roman Sindhi signs for inclusive communication. |
 | 💬 **Interactive AI Portfolio** | A Streamlit-based personal portfolio featuring an integrated chatbot for smart Q&A. |
-| 🗺️ **🧠 AI YouTube Insight Studio** | An AI-powered educational tool that converts YouTube lectures into structured learning resources including summaries, quizzes, analytics, and downloadable reports.Built using Python, Streamlit, Ollama (Local LLM), and ReportLab. |
+| 🧠**AI YouTube Insight Studio** | An AI-powered educational tool that converts YouTube lectures into structured learning resources including summaries, quizzes, analytics, and downloadable reports.Built using Python, Streamlit, Ollama (Local LLM), and ReportLab. |
 ---
 
 ### 🧰 Tech Stack
